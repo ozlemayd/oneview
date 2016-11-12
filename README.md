@@ -1,2 +1,0 @@
-# oneview
-Sample application
